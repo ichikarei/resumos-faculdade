@@ -1,4 +1,4 @@
-# Resumos da Faculdade 💻
+# Resumos da Faculdade 
 
 Esse repositório contém resumos e atividades da área de TI.
 
